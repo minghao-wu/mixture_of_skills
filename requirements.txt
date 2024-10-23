@@ -1,0 +1,10 @@
+transformers==4.43.3
+datasets
+torch==2.3.0
+vllm==0.5.1
+accelerate
+deepspeed==0.14.0
+evaluate
+wandb==0.17.5
+scikit-learn
+peft
